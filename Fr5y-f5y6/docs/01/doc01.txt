@@ -1,0 +1,13 @@
+DE:
+Die benötigten Klassen wurden erstellt. (Siehe Bild: ClassDiagram_Wissenstest_DB2 oder Class Diagram_1 in Powerdesigner ) 
+In main wurden die Objekte der Klassen erstellt.
+Die CSV-Datei wird über den reader eingelesen.
+Die eingelesenen Daten werden in HashMaps und listen gespeichert.
+Ausgabe der Anzahl von Fragen und die Anzahl der Kategorien ohne Duplikate.
+
+EN:
+Created classes according to: (img: ClassDiagram_Wissenstest_DB2  or Powerdesigner: Class Diagram_1)
+Created the objects of the needed classes in main.
+CSV reader, reads the CSV-File.
+The information from the CSV-File are put and saved into different HashMaps and lists.
+Print the number of questions and the unique count of Categories.
